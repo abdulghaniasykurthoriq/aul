@@ -32,6 +32,26 @@
     "end": "Agustus 2024",
     "jobDetail": [
       {
+        "item": "Mengembangkan, mengimplementasikan, dan mendokumentasikan basis data PKK."
+      },
+      {
+        "item": "Menulis panduan teknis dengan contoh implementasi."
+      },
+      {
+        "item": "Mengembangkan aplikasi dan fitur baru untuk PKK."
+      },
+      {
+        "item": "Menyusun dokumentasi teknis dan panduan pengguna."
+      }
+    ]
+  },
+  {
+    "companyName": "PT SATYA AMARTA PRIMA",
+    "job": "Web Developer & Technical Writer",
+    "start": "Juli 2023",
+    "end": "Desember 2022",
+    "jobDetail": [
+      {
         "item": "Mendesain dan mengelola basis data dengan efisien."
       },
       {
@@ -39,6 +59,9 @@
       },
       {
         "item": "Membangun aplikasi web dan menyusun dokumentasi proyek."
+      },
+      {
+        "item": "Berinteraksi dengan klien untuk memahami kebutuhan dan solusi."
       }
     ]
   },
