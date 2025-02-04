@@ -69,7 +69,7 @@ export default function Home() {
           <div className="flex ml-5 md:ml-0 mt-3">
             <a
               className="mx-1"
-              href="https://www.linkedin.com/in/abdul-ghani-asykur-thoriq-5a74241a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+              href="https://www.linkedin.com/in/nurul-aulia-septiani-895095259/"
               target="_blank"
             >
               <Image
@@ -81,7 +81,7 @@ export default function Home() {
             </a>
             <a
               className="mx-1"
-              href="https://github.com/abdulghaniasykurthoriq"
+              href="https://github.com/nurulaulia19"
               target="_blank"
             >
               <Image
@@ -93,7 +93,7 @@ export default function Home() {
             </a>
             <a
               className="mx-1"
-              href="mailto:agatinfo17@gmail.com"
+              href="mailto:nurulauliaseptiani740@gmail.com"
               target="_blank"
             >
               <Image

@@ -1,60 +1,64 @@
 [
   {
-    "companyName": "ERP Project",
-    "job": "Intern Backend Developer",
-    "start": "July 2024",
-    "end": "Dec 2024",
+    "companyName": "PT SANGKURIANG INTERNASIONAL",
+    "job": "Technical Writer",
+    "start": "Januari 2023",
+    "end": "Agustus 2023",
     "jobDetail": [
       {
-        "item": "Developed web API applications using ASP.NET"
+        "item": "Berkolaborasi untuk menyusun dokumentasi teknis."
       },
       {
-        "item": "Created documentation using Swagger"
+        "item": "Meriset dan merencanakan dokumentasi berkualitas."
       },
       {
-        "item": "Automated email sending for user registration"
+        "item": "Mengevaluasi dan memastikan kualitas dokumen teknis."
+      },
+      {
+        "item": "Mengelola arsip dokumentasi teknis."
+      },
+      {
+        "item": "Membuat dan mendistribusikan notulensi rapat."
+      },
+      {
+        "item": "Mendukung proyek dari awal hingga pemeliharaan."
       }
     ]
   },
   {
-    "companyName": "Simpeg Politeknik Negeri Indramayu",
-    "job": "Fullstack Developer",
-    "start": "Oct 2023",
-    "end": "Dec 2023",
+    "companyName": "PT SATYA AMARTA PRIMA",
+    "job": "Web Developer & Technical Writer",
+    "start": "Juli 2023",
+    "end": "Agustus 2023",
     "jobDetail": [
       {
-        "item": "Develop Web application using Laravel"
+        "item": "Mendesain dan mengelola basis data dengan efisien."
       },
       {
-        "item": "Coordinate with Stackholder and Mobile Developer on developing applications"
+        "item": "Menulis, menguji, dan mengembangkan kode aplikasi."
       },
       {
-        "item": "Work with agile scrum"
+        "item": "Membangun aplikasi web dan menyusun dokumentasi proyek."
       }
     ]
   },
   {
-    "companyName": "KeK",
-    "job": "Fullstack Developer",
-    "start": "Jul 2023",
-    "end": "Aug 2023",
+    "companyName": "FORUM MAHASISWA BIDIKMISI",
+    "job": "Sekretaris",
+    "start": "Juli 2022",
+    "end": "Juni 2023",
     "jobDetail": [
       {
-        "item": "Develop application using Laravel, Flutter"
-      }
-    ]
-  },
-  {
-    "companyName": "e-Masjid",
-    "job": "Fullstack Developer",
-    "start": "Feb 2023",
-    "end": "May 2023",
-    "jobDetail": [
-      {
-        "item": "Develop Web application using Laravel, Inertia, React"
+        "item": "Mengelola arsip bisnis yang terorganisir."
       },
       {
-        "item": "Coordinate with UI / UX team, and QA on developing applications"
+        "item": "Membuat laporan akurat di Excel."
+      },
+      {
+        "item": "Mencatat dan membagikan hasil rapat."
+      },
+      {
+        "item": "Menyusun dan mengirim surat organisasi."
       }
     ]
   }
