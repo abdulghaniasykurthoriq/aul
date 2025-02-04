@@ -1,0 +1,43 @@
+[
+    {
+        "companyName":"Simpeg Politeknik Negeri Indramayu",
+        "job":"Fullstack Developer",
+        "start":"Oct 2023",
+        "end":"Dec 2023",
+        "jobDetail" : [
+            {
+                "item":"Develop Web application using Laravel"
+            },{
+                "item":"Coordinate with Stackholder and Mobile Developer on developing applications"
+            },{
+                "item":"Work with agile scrum"
+            }
+        ]
+    },
+    {
+        "companyName":"KeK",
+        "job":"Fullstack Developer",
+        "start":"Jul 2023",
+        "end":"Aug 2023",
+        "jobDetail" : [
+            {
+                "item":"Develop application using Laravel, Flutter"
+            }
+        ]
+    },
+    {
+        "companyName":"e-Masjid",
+        "job":"Fullstack Developer",
+        "start":"Feb 2023",
+        "end":"May 2023",
+        "jobDetail" : [
+            {
+                "item":"Develop Web application using Laravel, Inertia, React"
+            },{
+                "item":"Coordinate with UI / UX team, Backend, and QA on developing applications"
+            },{
+                "item":"Work with scrum agile"
+            }
+        ]
+    }
+]
