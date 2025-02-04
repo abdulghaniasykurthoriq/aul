@@ -1,154 +1,48 @@
 [
   {
-    "companyName": "MyKanban",
-    "job": "Fullstack Developer",
-    "start": "Nov 2024",
-    "end": "Dec 2024",
-    "desc": "MyKanban is a project inspired by task management systems like Trello.",
+    "companyName": "BPMP Aceh",
+    "job": "Technical Writer",
+    "start": "Oktober 2024",
+    "end": "Oktober 2024",
+    "desc": "BPMP Aceh",
     "jobDetail": [
-      {
-        "item": "Develop Web application using Laravel"
-      }
-    ],
-    "images": [
-      {
-        "url": "/portofolio/mykanban/trello.gif"
-      },
-      {
-        "url": "/portofolio/mykanban/image.png"
-      }
-    ],
-    "stack": [
-      {
-        "item": "Laravel"
-      },
-      {
-        "item": "Inertia"
-      },
-      {
-        "item": "React"
-      }
-    ],
-    "repo": "https://github.com/abdulghaniasykurthoriq/my-kanban.git"
-  },
-  {
-    "companyName": "Simpeg Politeknik Negeri Indramayu",
-    "job": "Fullstack Developer",
-    "start": "Oct 2023",
-    "end": "Dec 2023",
-    "desc": "SIMPEG is an application for employee management, including leave management and employee data administration.",
-    "jobDetail": [
-      {
-        "item": "Develop Web application using Laravel"
-      },
-      {
-        "item": "Coordinate with Stackholder and Mobile Developer on developing applications"
-      },
-      {
-        "item": "Work with agile scrum"
-      }
-    ],
-    "images": [
-      {
-        "url": "/portofolio/simpeg/landing-page.png"
-      },
-      {
-        "url": "/portofolio/simpeg/login.png"
-      },
-      {
-        "url": "/portofolio/simpeg/kalender.png"
-      },
-      {
-        "url": "/portofolio/simpeg/fungsional.png"
-      }
-    ],
-    "stack": [
-      {
-        "item": "Laravel"
-      },
-      {
-        "item": "TailwindCSS"
-      },
-      {
-        "item": "MySql"
-      }
-    ],
-    "repo": "https://gitlab.com/abdulghaniasykurthoriq/sim-pegawai.git"
-  },
-  {
-    "companyName": "KeK",
-    "job": "Fullstack Developer",
-    "start": "Jul 2023",
-    "end": "Aug 2023",
-    "desc": "KeK is a mobile application designed for questionnaires to identify chronic energy deficiency in pregnant women.",
-    "jobDetail": [
-      {
-        "item": "Develop application using Laravel, Flutter"
-      }
-    ],
-    "images": [
-      {
-        "url": "/portofolio/kek/design.png"
-      },
-      {
-        "url": "/portofolio/kek/form.png"
-      }
-    ],
-    "stack": [
-      {
-        "item": "Laravel"
-      },
-      {
-        "item": "Fluter"
-      },
-      {
-        "item": "MySql"
-      }
-    ],
-    "repo": "https://github.com/abdulghaniasykurthoriq/kek_apps.git"
-  },
-  {
-    "companyName": "e-Masjid",
-    "job": "Fullstack Developer",
-    "start": "Feb 2023",
-    "end": "May 2023",
-    "desc": "An application to manage the mosque's cash fund and also serve as an information source",
-    "jobDetail": [
-      {
-        "item": "Develop Web application using Laravel, Inertia, React"
-      },
-      {
-        "item": "Coordinate with UI / UX team, Backend, and QA on developing applications"
-      },
       {
         "item": "Work with scrum agile"
       }
     ],
     "images": [
       {
-        "url": "/portofolio/emasjid/login.png"
-      },
-      {
-        "url": "/portofolio/emasjid/laporan-keuangan.png"
-      },
-      {
-        "url": "/portofolio/emasjid/laporan-keuangan-create.png"
-      },
-      {
-        "url": "/portofolio/emasjid/dashboard.png"
+        "url": "/portofolio/mom_bpmp.png"
       }
     ],
     "stack": [
       {
-        "item": "Laravel"
-      },
-      {
-        "item": "Inertia"
-      },
-      {
-        "item": "React"
+        "item": "Ms Word"
       }
     ],
-    "repo": "https://github.com/abdulghaniasykurthoriq/masjid-polindra.git"
+    "repo": "https://drive.google.com/file/d/1qNm9NAoxW3YGYhg8EAe7VP1-tYKrTYA6/view?usp=sharing"
+  },
+  {
+    "companyName": "Apo-tech",
+    "job": "Technical Writer",
+    "start": "Feb 2023",
+    "end": "May 2023",
+    "desc": "Apo tech",
+    "jobDetail": [
+      {
+        "item": "Work with scrum agile"
+      }
+    ],
+    "images": [
+      {
+        "url": "/portofolio/srs-apotech.png"
+      }
+    ],
+    "stack": [
+      {
+        "item": "Ms Word"
+      }
+    ],
+    "repo": "https://drive.google.com/file/d/1c20rTeEsYnftpONQ5Ys_-KefTy0j5EEu/view?usp=sharing"
   }
 ]
