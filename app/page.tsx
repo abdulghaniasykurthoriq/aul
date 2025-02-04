@@ -53,18 +53,18 @@ export default function Home() {
       >
         <div className="avatar">
           <div className="w-28 rounded-full ring ring-base-300 ring-offset-base-100 ring-offset-2">
-            <Image src="/agat.jpeg" alt="Avatar" width={500} height={500} />
+            <Image src="/aul.jpeg" alt="Avatar" width={500} height={500} />
           </div>
         </div>
         <div
           data-aos="fade-up"
           className="flex flex-col md:ml-8 justify-center"
         >
-          <h1 className="text-xl md:text-3xl text-blueGray dark:text-white mt-8 md:mt-0 text-center ml-6 mr-6 md:ml-0 md:mr-0 md:text-start font-regular mb-4">
+          <h1 className="text-xl md:text-3xl text-blueGray dark:text-white mt-8 md:mt-0 text-left ml-6 mr-6 md:ml-0 md:mr-0 md:text-start font-regular mb-4">
             Hello, I&apos;m Nurul Aulia Septiani
           </h1>
-          <p className="text-base md:text-xl text-blueGray dark:text-white flex font-regular place-self-center md:place-self-start">
-            <span className="text-blue">Software</span>&nbsp;Engineer
+          <p className="text-base md:text-xl text-blueGray dark:text-white flex font-regular ml-6 md:ml-0 place-self-left ">
+            <span className="text-blue">Technical</span>&nbsp;Writer
           </p>
           <div className="flex ml-5 md:ml-0 mt-3">
             <a
