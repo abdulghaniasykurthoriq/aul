@@ -1,5 +1,74 @@
 [
   {
+    "companyName": "Dokumentasi API",
+    "job": "Technical Writer",
+    "start": "November 2024",
+    "end": "November 2024",
+    "desc": "Technical Writer",
+    "jobDetail": [
+      {
+        "item": "Work with waterfall"
+      }
+    ],
+    "images": [
+      {
+        "url": "/portofolio/dokementasi-api.png"
+      }
+    ],
+    "stack": [
+      {
+        "item": "Ms Word"
+      }
+    ],
+    "repo": "https://drive.google.com/file/d/1HpMVezLSVoQnCjP0n8SJ51vbMx958Wsn/view?usp=sharing"
+  },
+  {
+    "companyName": "Panduan Pengguna Linktree",
+    "job": "Technical Writer",
+    "start": "November 2024",
+    "end": "November 2024",
+    "desc": "Technical Writer",
+    "jobDetail": [
+      {
+        "item": "Work with waterfall"
+      }
+    ],
+    "images": [
+      {
+        "url": "/portofolio/manual_pengguna_linktree.png"
+      }
+    ],
+    "stack": [
+      {
+        "item": "Ms Word"
+      }
+    ],
+    "repo": "https://drive.google.com/file/d/1i_YP6dIGc0CL5z4DC_EABdO706d0nS8e/view?usp=sharing"
+  },
+  {
+    "companyName": "PKK Kab Indramayu",
+    "job": "Technical Writer",
+    "start": "Januari 2024",
+    "end": "Agustus 2024",
+    "desc": "Technical Writer",
+    "jobDetail": [
+      {
+        "item": "Work with waterfall"
+      }
+    ],
+    "images": [
+      {
+        "url": "/portofolio/manualbook-pkk.png"
+      }
+    ],
+    "stack": [
+      {
+        "item": "Ms Word"
+      }
+    ],
+    "repo": "https://drive.google.com/file/d/1XGcFL5HXrbKcvRz9KM6JQyI5a0ta8wZe/view?usp=sharing"
+  },
+  {
     "companyName": "BPMP Aceh",
     "job": "Technical Writer",
     "start": "Oktober 2024",
