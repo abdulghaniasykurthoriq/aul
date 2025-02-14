@@ -1,5 +1,28 @@
 [
   {
+    "companyName": "Jurnal Nasional",
+    "job": "Technical Writer",
+    "start": "November 2024",
+    "end": "November 2024",
+    "desc": "Technical Writer",
+    "jobDetail": [
+      {
+        "item": "Work with waterfall"
+      }
+    ],
+    "images": [
+      {
+        "url": "/portofolio/jurnal.png"
+      }
+    ],
+    "stack": [
+      {
+        "item": "Ms Word"
+      }
+    ],
+    "repo": "https://drive.google.com/file/d/1_0ceFue9dNRmsd32ycF4l-x7m2a4LiYr/view?usp=drive_link"
+  },
+  {
     "companyName": "Dokumentasi API",
     "job": "Technical Writer",
     "start": "November 2024",
