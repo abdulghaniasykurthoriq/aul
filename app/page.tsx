@@ -10,6 +10,7 @@ import animationData from "../public/animation/developer.json";
 export default function Home() {
   const [mounted, setMounted] = useState(false);
 
+  
   useEffect(() => {
     if (typeof window !== "undefined") {
       const hasSeenSplash = sessionStorage.getItem("hasSeenSplash");
