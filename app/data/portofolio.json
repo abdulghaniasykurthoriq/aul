@@ -1,5 +1,115 @@
 [
   {
+    "companyName": "Manual Pengguna Mail Pemerintahan",
+    "job": "Technical Writer",
+    "start": "November 2024",
+    "end": "November 2024",
+    "desc": "Technical Writer",
+    "jobDetail": [
+      {
+        "item": "Work with waterfall"
+      }
+    ],
+    "images": [
+      {
+        "url": "/portofolio/manual_pengguna_mail_pemerintahan.jpg"
+      }
+    ],
+    "stack": [
+      {
+        "item": "Ms Word"
+      }
+    ]
+  },
+  {
+    "companyName": "Manual Pengguna SP4N Lapor",
+    "job": "Technical Writer",
+    "start": "November 2024",
+    "end": "November 2024",
+    "desc": "Technical Writer",
+    "jobDetail": [
+      {
+        "item": "Work with waterfall"
+      }
+    ],
+    "images": [
+      {
+        "url": "/portofolio/manual_pengguna_lapor.jpg"
+      }
+    ],
+    "stack": [
+      {
+        "item": "Ms Word"
+      }
+    ]
+  },
+  {
+    "companyName": "Laporan Akhir Aplikasi Cloud SPBE Kominfo",
+    "job": "Technical Writer",
+    "start": "November 2024",
+    "end": "November 2024",
+    "desc": "Technical Writer",
+    "jobDetail": [
+      {
+        "item": "Work with waterfall"
+      }
+    ],
+    "images": [
+      {
+        "url": "/portofolio/laporan_akhir_spbe.jpg"
+      }
+    ],
+    "stack": [
+      {
+        "item": "Ms Word"
+      }
+    ]
+  },
+  {
+    "companyName": "Laporan Bulanan Aplikasi Cloud SPBE Kominfo",
+    "job": "Technical Writer",
+    "start": "November 2024",
+    "end": "November 2024",
+    "desc": "Technical Writer",
+    "jobDetail": [
+      {
+        "item": "Work with waterfall"
+      }
+    ],
+    "images": [
+      {
+        "url": "/portofolio/laporan_bulanan_spbe.jpg"
+      }
+    ],
+    "stack": [
+      {
+        "item": "Ms Word"
+      }
+    ]
+  },
+  {
+    "companyName": "Laporan Antara Aplikasi Cloud SPBE Kominfo",
+    "job": "Technical Writer",
+    "start": "November 2024",
+    "end": "November 2024",
+    "desc": "Technical Writer",
+    "jobDetail": [
+      {
+        "item": "Work with waterfall"
+      }
+    ],
+    "images": [
+      {
+        "url": "/portofolio/laporan_antara_spbe.jpg"
+      }
+    ],
+    "stack": [
+      {
+        "item": "Ms Word"
+      }
+    ]
+  },
+  {
     "companyName": "Jurnal Nasional",
     "job": "Technical Writer",
     "start": "November 2024",
