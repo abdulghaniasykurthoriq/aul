@@ -26,6 +26,35 @@
     ]
   },
   {
+    "companyName": "SMK NU DARMA AJI",
+    "job": "Guru",
+    "start": "Januari 2024",
+    "end": "November 2025",
+    "jobDetail": [
+      {
+        "item": "Mengajarkan dasar informatika, algoritma, logika pemrograman, dan manajemen data."
+      },
+      {
+        "item": "Membimbing pembuatan dan pengembangan website dengan fokus pada struktur dan desain."
+      },
+      {
+        "item": "Mengarahkan proyek web dari perancangan hingga implementasi."
+      },
+      {
+        "item": "Mengintegrasikan Figma, Draw.io, kode editor, dan platform pembelajaran online."
+      },
+      {
+        "item": "Mengevaluasi hasil belajar melalui ujian dan presentasi proyek."
+      },
+      {
+        "item": "Merancang metode pembelajaran sesuai kebutuhan industri teknologi."
+      },
+      {
+        "item": "Meningkatkan keterampilan problem-solving, logika, dan kreativitas siswa."
+      }
+    ]
+  },
+  {
     "companyName": "PKK KAB INDRAMAYU",
     "job": "Web Developer & Technical Writer",
     "start": "Januari 2024",
